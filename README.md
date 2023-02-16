@@ -11,3 +11,7 @@ git clone https://github.com/faked86/kettle.git
 ### To use as CLI app:
 1 `cd kettle`
 2 `python kettle.py`
+
+## Styling
+Linter: mypy
+Formatter: yapf
